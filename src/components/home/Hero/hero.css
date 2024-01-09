@@ -1,0 +1,20 @@
+.hero {
+  background-image: url("../../../../public/images/cargo.avif");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 90vh;
+  width: 100%;
+}
+.hero .container {
+  padding-top: 15%;
+}
+.hero h1 {
+  color: #fff;
+  font-size: 60px;
+}
+.hero p {
+  color: #fff;
+  background-color: #000;
+  opacity: 0.8;
+}
