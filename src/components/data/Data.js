@@ -1,7 +1,7 @@
 export const nav = [
   {
     text: "home",
-    path: "/Ourship-id",
+    path: "/Ourship-id/home",
   },
   {
     text: "about",
