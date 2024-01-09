@@ -1,19 +1,19 @@
 export const nav = [
   {
     text: "home",
-    path: "/",
+    path: "/Ourship-id",
   },
   {
     text: "about",
-    path: "/about",
+    path: "/Ourship-id/about",
   },
   {
     text: "Location",
-    path: "/blog",
+    path: "/Ourship-id/blog",
   },
   {
     text: "contact",
-    path: "/contact",
+    path: "/Ourship-id/contact",
   },
 ];
 
