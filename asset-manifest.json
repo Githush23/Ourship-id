@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ourship-id/static/css/main.ab662e2f.css",
+    "main.js": "/Ourship-id/static/js/main.98803bcc.js",
+    "static/media/pexels-elīna-arāja-3377405.jpg": "/Ourship-id/static/media/pexels-elīna-arāja-3377405.872f94ff1368f5dc9c97.jpg",
+    "static/media/cargo.avif": "/Ourship-id/static/media/cargo.930cee5c6f3f2f1bca52.avif",
+    "index.html": "/Ourship-id/index.html",
+    "main.ab662e2f.css.map": "/Ourship-id/static/css/main.ab662e2f.css.map",
+    "main.98803bcc.js.map": "/Ourship-id/static/js/main.98803bcc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab662e2f.css",
+    "static/js/main.98803bcc.js"
+  ]
+}
