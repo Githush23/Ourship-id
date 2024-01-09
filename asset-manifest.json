@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Ourship-id/static/css/main.ab662e2f.css",
-    "main.js": "/Ourship-id/static/js/main.98803bcc.js",
-    "static/media/pexels-elīna-arāja-3377405.jpg": "/Ourship-id/static/media/pexels-elīna-arāja-3377405.872f94ff1368f5dc9c97.jpg",
-    "static/media/cargo.avif": "/Ourship-id/static/media/cargo.930cee5c6f3f2f1bca52.avif",
-    "index.html": "/Ourship-id/index.html",
-    "main.ab662e2f.css.map": "/Ourship-id/static/css/main.ab662e2f.css.map",
-    "main.98803bcc.js.map": "/Ourship-id/static/js/main.98803bcc.js.map"
+    "main.css": "/Ourship-id/home/static/css/main.341914c7.css",
+    "main.js": "/Ourship-id/home/static/js/main.3e5c16f2.js",
+    "static/media/pexels-elīna-arāja-3377405.jpg": "/Ourship-id/home/static/media/pexels-elīna-arāja-3377405.872f94ff1368f5dc9c97.jpg",
+    "static/media/cargo.avif": "/Ourship-id/home/static/media/cargo.930cee5c6f3f2f1bca52.avif",
+    "index.html": "/Ourship-id/home/index.html",
+    "main.341914c7.css.map": "/Ourship-id/home/static/css/main.341914c7.css.map",
+    "main.3e5c16f2.js.map": "/Ourship-id/home/static/js/main.3e5c16f2.js.map"
   },
   "entrypoints": [
-    "static/css/main.ab662e2f.css",
-    "static/js/main.98803bcc.js"
+    "static/css/main.341914c7.css",
+    "static/js/main.3e5c16f2.js"
   ]
 }
