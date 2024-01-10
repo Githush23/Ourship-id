@@ -21,19 +21,19 @@ import L6 from "./gallery/angkutan-logistik-naik-antarafoto_ratio-16x9-1.jpg";
 export const nav = [
   {
     text: "home",
-    path: "/Ourship-id.vercel.app/",
+    path: "/",
   },
   {
     text: "about",
-    path: "/Ourship-id.vercel.app/about",
+    path: "/about",
   },
   {
     text: "Location",
-    path: "/Ourship-id.vercel.app/blog",
+    path: "/blog",
   },
   {
     text: "contact",
-    path: "/Ourship-id.vercel.app/contact",
+    path: "/contact",
   },
 ];
 
