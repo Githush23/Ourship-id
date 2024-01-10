@@ -1,11 +1,11 @@
 import F1 from "./hero/776588.png";
-import F2 from "./hero/sugar.png";
+import F2 from "./hero/5225195.png";
 import F3 from "./hero/shipping-icon-png-15.png";
 import F4 from "./hero/6522962.png";
 import F5 from "./hero/1788822.png";
 
-import R1 from "./recent/1680740215p.jpg";
-import R2 from "./recent/a5a11_buka-giling.jpg";
+import R1 from "./recent/IMG-20190122-WA0008.jpg";
+import R2 from "./recent/1388603126.jpg";
 import R3 from "./recent/maxresdefault.jpg";
 import R4 from "./recent/gula-1.jpg";
 import R5 from "./recent/EKSPEDISI-PANGAN-PETROKIMIA-3.jpg";
@@ -40,12 +40,12 @@ export const nav = [
 export const featured = [
   {
     cover: F1,
-    name: "Transportation",
+    name: "Roadway",
     total: "122 Vehicle",
   },
   {
     cover: F2,
-    name: "Any Package",
+    name: "Airway",
     total: "155 Type",
   },
   {
@@ -69,8 +69,8 @@ export const list = [
   {
     id: 1,
     cover: R1,
-    name: "PT. Tanaman Makmur Tbk.",
-    location: "Pakualam, Yogyakarta",
+    name: "PT. Nira Jaya Abadi",
+    location: "Way Jepara, Lampung Timur",
     category: "Shipping",
     type: "Commercial",
     price: "Tracking",
@@ -87,7 +87,7 @@ export const list = [
   {
     id: 3,
     cover: R3,
-    name: "PT. Sinar Terang Jaya",
+    name: "PT. Nira Jaya Abadi",
     location: "Way Jepara, Lampung Timur",
     category: "Shipping",
     type: "Commercial",
@@ -105,8 +105,8 @@ export const list = [
   {
     id: 5,
     cover: R5,
-    name: "PT. Kesemakmuran Sejahtera",
-    location: "Jati Asih, Bekasi",
+    name: "CV. FF Cahaya Asri",
+    location: "Cibitung, Bekasi",
     category: "Shipping",
     type: "Commercial",
     price: "Tracking",
@@ -236,9 +236,9 @@ export const price = [
 export const location = [
   {
     id: 1,
-    name: "Duri Kelapa, Jakarta Barat",
+    name: "Way Jepara, Lampung Timur",
     Villas: "12 Villas",
-    Apartments: "10 Apartments",
+    Apartments: "50 unit",
     Offices: "07 Offices",
     cover: L1,
   },
@@ -246,7 +246,7 @@ export const location = [
     id: 2,
     name: "Jati Asih, Bekasi",
     Villas: "12 Villas",
-    Apartments: "10 Apartments",
+    Apartments: "10 unit",
     Offices: "07 Offices",
     cover: L2,
   },
@@ -254,31 +254,31 @@ export const location = [
     id: 3,
     name: "Sunter, Tanjung Priok",
     Villas: "12 Villas",
-    Apartments: " 10 Apartments",
+    Apartments: "25 unit",
     Offices: "07 Offices",
     cover: L3,
   },
   {
     id: 4,
-    name: "Antapani, Bandung",
+    name: "Cibitung, Kab. Bekasi",
     Villas: "12 Villas",
-    Apartments: " 10 Apartments",
+    Apartments: " 15 unit",
     Offices: "07 Offices",
     cover: L4,
   },
   {
     id: 5,
-    name: "Pakualam, Yogyakarta",
+    name: "Banyuwangi, Jawa Timur",
     Villas: "12 Villas",
-    Apartments: " 10 Apartments",
+    Apartments: " 35 unit",
     Offices: "07 Offices",
     cover: L5,
   },
   {
     id: 6,
-    name: "Way Jepara, Lampung",
+    name: "Sribawono, Lampung",
     Villas: "12 Villas",
-    Apartments: " 10 Apartments",
+    Apartments: " 27 unit",
     Offices: "07 Offices",
     cover: L6,
   },

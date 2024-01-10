@@ -8,8 +8,8 @@ const Hero = () => {
       <section className="hero">
         <div className="container">
           <Heading
-            title="Shipment Your Products with Our Services"
-            subtitle="Service available with low cost and effective transit."
+            title="Menghadirkan Keunggulan dalam Setiap Pengiriman."
+            subtitle="Dengan Cahaya Kargo Produkmu Akan Aman Sampai Tujuan."
           />
         </div>
       </section>

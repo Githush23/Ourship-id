@@ -13,8 +13,8 @@ const Blog = () => {
 
         <div className="container content2">
           <Heading
-            title="Explore By Location"
-            subtitle="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+            title="Eksplorasi Lokasi"
+            subtitle="Tempat Strategis di Mana Inovasi dan Kesuksesan Bertemu, Membentuk Landasan Pertumbuhan Bisnis yang Tak Terbatas."
           />
 
           <div className="content grid3 mtop">

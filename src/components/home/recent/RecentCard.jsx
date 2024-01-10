@@ -4,12 +4,12 @@ import { list } from "../../data/Data";
 const RecentCard = () => {
   return (
     <>
-      <div className="content grid3 mtop">
+      <div className="content grid3 mtop ">
         {list.map((val, index) => {
           const { cover, category, location, name, price, type } = val;
           return (
             <div className="box shadow" key={index}>
-              <div className="img">
+              <div className="img .contentimg">
                 <img src={cover} alt="" />
               </div>
               <div className="text">

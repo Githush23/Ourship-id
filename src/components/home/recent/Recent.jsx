@@ -9,7 +9,7 @@ const Recent = () => {
       <section className="recent">
         <div className="container ">
           <Heading
-            title="Recent Shipment Listed"
+            title="Pengiriman Terjadwal"
             subtitle="Memungkinkan pelanggan untuk membuat jadwal pengiriman sesuai dengan preferensi waktu mereka, sehingga memberikan fleksibilitas dalam menerima paket."
           />
           <RecentCard />

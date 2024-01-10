@@ -1,6 +1,7 @@
 import React from "react";
 import img from "../contact/pexels-elīna-arāja-3377405.jpg";
 import Back from "../common/Back";
+import Map from "./Map";
 import "./contact.css";
 
 const Contact = () => {
@@ -13,6 +14,8 @@ const Contact = () => {
           cover={img}
         />
         <div className="container">
+          <Map />
+
           <form className="shadow">
             <h4>Fillup The Form</h4> <br />
             <div>

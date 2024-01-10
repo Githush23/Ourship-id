@@ -21,10 +21,10 @@ const Footer = () => {
         <div className="container">
           <div className="box">
             <div className="logo">
-              <h2>Do You Need Help With Anything?</h2>
+              <h2>Anda Butuh Bantuan?</h2>
               <p>
-                Receive updates, hot deals, tutorials, discounts sent straignt
-                in your inbox every month
+                Mari Ikuti Kami Untuk Mendapatkan Update Seputar Penawaran
+                Menarik Tentang Perusahaan Kami Melalui Emailmu!
               </p>
 
               <div className="input flex">
@@ -47,7 +47,7 @@ const Footer = () => {
         </div>
       </footer>
       <div className="legal">
-        <span>© 2024 Sugar, Design by Ourship All Right Reserved.</span>
+        <span>© 2024, Design by Ourship All Right Reserved.</span>
       </div>
     </>
   );

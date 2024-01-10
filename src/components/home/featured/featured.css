@@ -1,5 +1,8 @@
 .featured {
   padding-bottom: 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
 .featured .box {

@@ -8,8 +8,8 @@ const Featured = () => {
       <section className="featured background">
         <div className="container">
           <Heading
-            title="Featured Types"
-            subtitle="Find All Type of Shipment."
+            title="Tipe Pengiriman"
+            subtitle="Temukan Jenis Pengirimanmu."
           />
 
           <FeaturedCard />
