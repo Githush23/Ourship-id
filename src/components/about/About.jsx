@@ -1,6 +1,8 @@
 import React from "react";
 import Back from "../common/Back";
 import Heading from "../common/Heading";
+import img1 from "./9.-Jasa-Ekspedisi-Cargo-Darat-Pulau-Jawa-Murah.jpeg";
+import img2 from "./17.1-Daftar-Perusahaan-Ekspedisi-di-Jakarta-Barat-Terbaik.jpeg";
 import "./about.css";
 
 const About = () => {
@@ -36,18 +38,12 @@ const About = () => {
             </p>
           </div>
           <div className="right row">
-            <img
-              src="../images/9.-Jasa-Ekspedisi-Cargo-Darat-Pulau-Jawa-Murah.jpeg"
-              alt=""
-            />
+            <img src={img1} alt="" />
           </div>
         </div>
         <div className="container flex mtop">
           <div className="left row">
-            <img
-              src="../images/17.1-Daftar-Perusahaan-Ekspedisi-di-Jakarta-Barat-Terbaik.jpeg"
-              alt=""
-            />
+            <img src={img2} alt="" />
           </div>
           <div className="right row">
             <Heading

@@ -1,7 +1,27 @@
+import F1 from "./hero/776588.png";
+import F2 from "./hero/sugar.png";
+import F3 from "./hero/shipping-icon-png-15.png";
+import F4 from "./hero/6522962.png";
+import F5 from "./hero/1788822.png";
+
+import R1 from "./recent/1680740215p.jpg";
+import R2 from "./recent/a5a11_buka-giling.jpg";
+import R3 from "./recent/maxresdefault.jpg";
+import R4 from "./recent/gula-1.jpg";
+import R5 from "./recent/EKSPEDISI-PANGAN-PETROKIMIA-3.jpg";
+import R6 from "./recent/gula.jpeg";
+
+import L1 from "./gallery/hqdefault.jpg";
+import L2 from "./gallery/trucking.jpg";
+import L3 from "./gallery/1610347053960.jpg";
+import L4 from "./gallery/sewa-truk-tronton-6-pgpvzqmlqm9ampa0exh69447t7h07lz0bsjldtlvum.jpeg";
+import L5 from "./gallery/WhatsApp-Image-2021-08-06-at-10.05.30-14.jpeg";
+import L6 from "./gallery/angkutan-logistik-naik-antarafoto_ratio-16x9-1.jpg";
+
 export const nav = [
   {
     text: "home",
-    path: "/Ourship-id/home",
+    path: "/Ourship-id/",
   },
   {
     text: "about",
@@ -19,27 +39,27 @@ export const nav = [
 
 export const featured = [
   {
-    cover: "../images/hero/776588.png",
+    cover: F1,
     name: "Transportation",
     total: "122 Vehicle",
   },
   {
-    cover: "../images/hero/sugar.png",
+    cover: F2,
     name: "Any Package",
     total: "155 Type",
   },
   {
-    cover: "../images/hero/shipping-icon-png-15.png",
+    cover: F3,
     name: "Ocean Freight",
     total: "300 On Going",
   },
   {
-    cover: "../images/hero/6522962.png",
+    cover: F4,
     name: "Your Package",
     total: "80 Package",
   },
   {
-    cover: "../images/hero/1788822.png",
+    cover: F5,
     name: "Delivery to Customer",
     total: "3412 Customer",
   },
@@ -48,7 +68,7 @@ export const featured = [
 export const list = [
   {
     id: 1,
-    cover: "../images/recent/1680740215p.jpg",
+    cover: R1,
     name: "PT. Tanaman Makmur Tbk.",
     location: "Pakualam, Yogyakarta",
     category: "Shipping",
@@ -57,7 +77,7 @@ export const list = [
   },
   {
     id: 2,
-    cover: "../images/recent/a5a11_buka-giling.jpg",
+    cover: R2,
     name: "PT. Sukseskan Indah Lestari ",
     location: "Sunter, Tanjung Priok",
     category: "Received",
@@ -66,7 +86,7 @@ export const list = [
   },
   {
     id: 3,
-    cover: "../images/recent/maxresdefault.jpg",
+    cover: R3,
     name: "PT. Sinar Terang Jaya",
     location: "Way Jepara, Lampung Timur",
     category: "Shipping",
@@ -75,7 +95,7 @@ export const list = [
   },
   {
     id: 4,
-    cover: "../images/recent/gula-1.jpg",
+    cover: R4,
     name: "PT. Sari Gula Murni",
     location: "Duri Kelapa, Jakarta Barat",
     category: "Received",
@@ -84,7 +104,7 @@ export const list = [
   },
   {
     id: 5,
-    cover: "../images/recent/EKSPEDISI-PANGAN-PETROKIMIA-3.jpg",
+    cover: R5,
     name: "PT. Kesemakmuran Sejahtera",
     location: "Jati Asih, Bekasi",
     category: "Shipping",
@@ -93,7 +113,7 @@ export const list = [
   },
   {
     id: 6,
-    cover: "../images/recent/gula.jpeg",
+    cover: R6,
     name: "PT. Sobat Sukses Sentosa",
     location: "Rancaekek, Bandung",
     category: "Received",
@@ -220,7 +240,7 @@ export const location = [
     Villas: "12 Villas",
     Apartments: "10 Apartments",
     Offices: "07 Offices",
-    cover: "../images/gallery/hqdefault.jpg",
+    cover: L1,
   },
   {
     id: 2,
@@ -228,7 +248,7 @@ export const location = [
     Villas: "12 Villas",
     Apartments: "10 Apartments",
     Offices: "07 Offices",
-    cover: "../images/gallery/trucking.jpg",
+    cover: L2,
   },
   {
     id: 3,
@@ -236,7 +256,7 @@ export const location = [
     Villas: "12 Villas",
     Apartments: " 10 Apartments",
     Offices: "07 Offices",
-    cover: "../images/gallery/1610347053960.jpg",
+    cover: L3,
   },
   {
     id: 4,
@@ -244,8 +264,7 @@ export const location = [
     Villas: "12 Villas",
     Apartments: " 10 Apartments",
     Offices: "07 Offices",
-    cover:
-      "../images/gallery/sewa-truk-tronton-6-pgpvzqmlqm9ampa0exh69447t7h07lz0bsjldtlvum.jpeg",
+    cover: L4,
   },
   {
     id: 5,
@@ -253,7 +272,7 @@ export const location = [
     Villas: "12 Villas",
     Apartments: " 10 Apartments",
     Offices: "07 Offices",
-    cover: "../images/gallery/WhatsApp-Image-2021-08-06-at-10.05.30-14.jpeg",
+    cover: L5,
   },
   {
     id: 6,
@@ -261,8 +280,7 @@ export const location = [
     Villas: "12 Villas",
     Apartments: " 10 Apartments",
     Offices: "07 Offices",
-    cover:
-      "../images/gallery/angkutan-logistik-naik-antarafoto_ratio-16x9-1.jpg",
+    cover: L6,
   },
 ];
 

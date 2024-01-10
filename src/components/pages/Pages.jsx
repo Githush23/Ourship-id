@@ -13,10 +13,10 @@ const Pages = () => {
       <Router>
         <Header />
         <Switch>
-          <Route exact path="/" component={Home} />
-          <Route exact path="/about" component={About} />
-          <Route exact path="/blog" component={Blog} />
-          <Route exact path="/contact" component={Contact} />
+          <Route exact path="/Ourship-id/" component={Home} />
+          <Route exact path="/Ourship-id/about" component={About} />
+          <Route exact path="/Ourship-id/blog" component={Blog} />
+          <Route exact path="/Ourship-id/contact" component={Contact} />
         </Switch>
         <Footer />
       </Router>
