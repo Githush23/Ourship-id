@@ -13,10 +13,14 @@ const Pages = () => {
       <Router>
         <Header />
         <Switch>
-          <Route exact path="/Ourship-id/" component={Home} />
-          <Route exact path="/Ourship-id/about" component={About} />
-          <Route exact path="/Ourship-id/blog" component={Blog} />
-          <Route exact path="/Ourship-id/contact" component={Contact} />
+          <Route exact path="/Ourship-id.vercel.app/" component={Home} />
+          <Route exact path="/Ourship-id.vercel.app/about" component={About} />
+          <Route exact path="/Ourship-id.vercel.app/blog" component={Blog} />
+          <Route
+            exact
+            path="/Ourship-id.vercel.app/contact"
+            component={Contact}
+          />
         </Switch>
         <Footer />
       </Router>
